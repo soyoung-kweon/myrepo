@@ -1,6 +1,7 @@
 ---
 title: "Git Tutorial"
-output: html_document
+author: "Soyoung Kweon"
+output: github_document
 date: "2023-11-02"
 ---
 
